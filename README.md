@@ -1,1 +1,3 @@
-# samson-IT128
+Desiree Mei Samson
+ITS152L-FOPM01
+BSIT-O
